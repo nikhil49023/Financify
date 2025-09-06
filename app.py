@@ -24,7 +24,7 @@ def configure_api():
         with st.sidebar:
             st.header("API Key Required")
             st.warning("Gemini API Key not found. Please enter it below.")
-            gemini_api_key = st.text_input("Enter your Gemini API Key", type="password", key="AIzaSyBwSBhOjhh2-CF47C2huFrl7JnXNU2Nvog")
+            gemini_api_key = st.text_input("Enter your Gemini API Key", type="password", key="your_API_KEY")
             if gemini_api_key:
                 st.session_state.gemini_api_key = gemini_api_key
                 st.rerun()
@@ -877,3 +877,4 @@ else:
     # Call the correct page function based on selection
     if page in page_functions:
         page_functions[page]()
+
