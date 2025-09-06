@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+pandas
+streamlit-option-menu
+Pillow
+plotly
+numpy
