@@ -6,7 +6,8 @@ Financify is an intelligent personal finance application designed to make financ
 Links
 🎥 Watch the Live Demo Video :- https://youtu.be/ZzutoRQfv2k
 
-🌐 Interact with the Live Prototype
+🌐 Interact with the Live Prototype :- https://financify-nikhil.streamlit.app/
+Note :- use your own GEMINI API KEY for best results
 
 ✨ About the Project
 Traditional finance apps are often boring, complex, and easy to abandon. Financify tackles this problem head-on by creating a user-centric platform that is:
