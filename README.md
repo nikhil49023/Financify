@@ -7,6 +7,7 @@ Links
 🎥 Watch the Live Demo Video :- https://youtu.be/ZzutoRQfv2k
 
 🌐 Interact with the Live Prototype :- https://financify-nikhil.streamlit.app/
+
 Note :- use your own GEMINI API KEY for best results
 
 ✨ About the Project
